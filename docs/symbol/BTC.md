@@ -11,7 +11,7 @@ permalink: /BTC/
 
 * Symbol: BTC
 * Name: Bitcoin
-* Positioning: hard money or digital gold that can be online transferred from one to another without going through intermediate financial institutions
+* Known as: world first fully decentralized crypto-currency, hard money or digital gold that can be online transferred from one to another without going through intermediate financial institutions
 * Founder: Satoshi Nakamoto (pseudonym)
 * Main-net launch: 2009/1/3 (proven by The Times newspaper)
 
@@ -79,7 +79,7 @@ In total, there will be 2,099,999,997,690,000 Satoshis, i.e. about 21 million Bi
 [Supply Curve](https://www.blockchain.com/charts/total-bitcoins?timespan=all){: .btn }
 [Top 100 Richest Addresses](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html){: .btn }
 
-# Consensus Algorithm
+# Consensus Protocol
 
 PoW (Proof-of-Work) + longest chain
 
