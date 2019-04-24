@@ -8,7 +8,7 @@ nav_exclude: true
 
 Understand before investment.
 
-coindocs.io collects useful facts & tools for you to understand the coins better.
+coindocs.io collects useful facts & tools for you to understand the coins better. No warranty.
 
-Any suggestion is warmly welcomed, please write to evan at blockcoach dot com.
+DO NOT INVEST ANYTHING MORE INTO CRYPTOCURRENCIES THAN YOU ARE PREPARED TO LOSE IN TOTALITY.
 
