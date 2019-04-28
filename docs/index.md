@@ -6,100 +6,14 @@ layout: home
 nav_exclude: true
 ---
 
-Understand before investment.  
-coindocs.io collects useful facts & tools for you to understand the coins better.
-
 NO WARRANTY! DO NOT INVEST ANYTHING MORE INTO CRYPTOCURRENCIES THAN YOU ARE PREPARED TO LOSE IN TOTALITY.
 
-# A
-[ADA](/ADA/){: .btn }
-[AE](/AE/){: .btn }
+# About coindocs and Disclaimer
 
-# B
-[BAT](/BAT/){: .btn }
-[BCD](/BCD/){: .btn }
-[BCH](/BCH/){: .btn }
-[BCN](/BCN/){: .btn }
-[BNB](/BNB/){: .btn }
-[BSV](/BSV/){: .btn }
-[BTC](/BTC/){: .btn }
-[BTG](/BTG/){: .btn }
-[BTS](/BTS/){: .btn }
-[BTT](/BTT/){: .btn }
+coindocs is devoted to discover and research on digital assets with real long-term value in crypto-economy, as well as publish peculiar and distinct opinions and insights. All reports are independent research results, without any sponsorship by interested parties. Report contents and opinions contains strong personal tones of the researcher and only for reference and discussion, without any purpose as advice to invest or not invest. All actions after you read the report contents are on your own decisions, without any relations to any contents in this site. Continuing to read the content of this site will be considers as your formal agreement on the disclaimer above. If you disagree, please leave this site immediately. 
 
-# C
-[CRO](/CRO/){: .btn }
+# 关于coindocs以及免责声明
 
-# D
-[DASH](/DASH/){: .btn }
-[DCR](/DCR/){: .btn }
-[DGB](/DGB/){: .btn }
-[DOGE](/DOGE/){: .btn }
+coindocs致力于发现和研究加密经济领域真正具有长期价值的数字资产，并发表富有个性的鲜明观点和洞见。所有报告均为独立研究成果，不接受利益相关方的任何资助。报告内容和观点包含研究员极强的个人色彩，仅供参考和交流，不构成任何投资或不投资建议，您阅读报告内容后所进行的一切行为均为自主决定之行动，与本站所有内容无关。继续阅读本站内容视为同意上述免责声明。如不同意，请立即离开本站。
 
-# E
-[ENJ](/ENJ/){: .btn }
-[ETC](/ETC/){: .btn }
-[ETH](/ETH/){: .btn }
-[EOS](/EOS/){: .btn }
-
-# H
-[HOT](/HOT/){: .btn }
-
-# I
-[ICX](/ICX/){: .btn }
-[IOST](/IOST/){: .btn }
-[IOTA](/IOTA/){: .btn }
-
-# L
-[LINK](/LINK/){: .btn }
-[LSK](/LSK/){: .btn }
-[LTC](/LTC/){: .btn }
-
-# M
-[MKR](/MKR/){: .btn }
-
-# N
-[NANO](/NANO/){: .btn }
-[NEM](/NEM/){: .btn }
-[NEO](/NEO/){: .btn }
-[NPXS](/NPXS/){: .btn }
-
-# O
-[OMG](/OMG/){: .btn }
-[ONT](/ONT/){: .btn }
-
-# Q
-[QTUM](/QTUM/){: .btn }
-
-# R
-[REP](/REP/){: .btn }
-[RVN](/RVN/){: .btn }
-
-# S
-[STEEM](/STEEM/){: .btn }
-
-# T
-[TRX](/TRX/){: .btn }
-[TUSD](/TUSD/){: .btn }
-
-# U
-[USDC](/USDC/){: .btn }
-[USDT](/USDT/){: .btn }
-
-# V
-[VET](/VET/){: .btn }
-
-# W
-[WAVES](/WAVES/){: .btn }
-
-# X
-[XLM](/XLM/){: .btn }
-[XMR](/XMR/){: .btn }
-[XRP](/XRP/){: .btn }
-[XTZ](/XTZ/){: .btn }
-
-# Z
-[ZEC](/ZEC/){: .btn }
-[ZIL](/ZIL/){: .btn }
-[ZRX](/ZRX/){: .btn }
 

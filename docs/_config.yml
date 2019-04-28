@@ -49,11 +49,12 @@ plugins:
 ############################################################################
 # just-the-docs config
 search_enabled: true
-aux_links:
-  "a blockcoach production":
-    - "//blockcoach.com"
+#aux_links:
+#  "a blockcoach production":
+#    - "//blockcoach.com"
 
-color_scheme: "dark"
+#color_scheme: "dark"
+color_scheme: "light"
 
 # Google Analytics
 ga_tracking: UA-7092935-9
