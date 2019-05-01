@@ -10,7 +10,7 @@ NO WARRANTY! DO NOT INVEST ANYTHING MORE INTO CRYPTOCURRENCIES THAN YOU ARE PREP
 
 # About coindocs and Disclaimer
 
-coindocs is devoted to discover and research on digital assets with real long-term value in crypto-economy, as well as publish peculiar and distinct opinions and insights. All reports are independent research results, without any sponsorship by interested parties. Report contents and opinions contains strong personal tones of the researcher and only for reference and discussion, without any purpose as advice to invest or not invest. All actions after you read the report contents are on your own decisions, without any relations to any contents in this site. Continuing to read the content of this site will be considers as your formal agreement on the disclaimer above. If you disagree, please leave this site immediately. 
+coindocs is devoted to discover and research on digital assets with real long-term value in crypto-economy, as well as publish peculiar and distinct opinions and insights. All reports are independent research results, without any sponsorship by interested parties. Report contents and opinions contains strong personal tones of the researchers and only for reference and discussion, without any purpose as advice to invest or not invest. All actions after you read the report contents are on your own decisions, without any relations to any contents in this site. Continuing to read the content of this site will be considered as your formal agreement on the disclaimer above. If you disagree, please leave this site immediately. 
 
 # 关于coindocs以及免责声明
 
